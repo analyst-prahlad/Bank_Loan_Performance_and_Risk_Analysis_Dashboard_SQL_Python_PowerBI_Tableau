@@ -67,3 +67,8 @@ Provides transparency into how insights were derived from raw loan data, reflect
 • Geographic and grade-based exposure
 
 • Business-level recommendations
+
+## ✍️ Author
+
+**Prahlad Somapurkar**  
+Aspiring Data Analyst
