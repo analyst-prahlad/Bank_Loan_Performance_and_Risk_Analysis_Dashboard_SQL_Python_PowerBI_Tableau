@@ -1,4 +1,4 @@
-***📂 Project Documentation – Financial Loan Performance & Risk Analysis -***
+****📂 Project Documentation – Financial Loan Performance & Risk Analysis -****
 
 • This folder contains structured documentation supporting the end-to-end loan performance and risk analytics project.
 
