@@ -68,7 +68,7 @@ Provides transparency into how insights were derived from raw loan data, reflect
 
 • Business-level recommendations
 
-## ✍️ Author
+### ✍️ Author
 
 **Prahlad Somapurkar**  
 Aspiring Data Analyst
