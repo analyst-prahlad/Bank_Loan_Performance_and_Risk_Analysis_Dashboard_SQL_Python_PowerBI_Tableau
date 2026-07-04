@@ -52,7 +52,7 @@ Demonstrates structured problem framing before jumping into SQL or dashboards â€
 
 â€¢ Aggregation and filtering methodology
 
--> Why it matters:
+-> ####Why it matters:
 Provides transparency into how insights were derived from raw loan data, reflecting strong analytical thinking and data traceability.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
